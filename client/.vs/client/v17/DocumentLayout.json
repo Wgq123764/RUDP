@@ -1,0 +1,111 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\D\\internship\\UDP\\ENet\\client\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A117B4CF-69DE-4F10-9266-99C99ACAD60F}|client\\client.vcxproj|D:\\D\\internship\\UDP\\ENet\\client\\client\\client3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A117B4CF-69DE-4F10-9266-99C99ACAD60F}|client\\client.vcxproj|solutionrelative:client\\client3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A117B4CF-69DE-4F10-9266-99C99ACAD60F}|client\\client.vcxproj|D:\\D\\internship\\UDP\\ENet\\client\\client\\client.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A117B4CF-69DE-4F10-9266-99C99ACAD60F}|client\\client.vcxproj|solutionrelative:client\\client.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A117B4CF-69DE-4F10-9266-99C99ACAD60F}|client\\client.vcxproj|D:\\D\\internship\\UDP\\ENet\\client\\client\\client2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A117B4CF-69DE-4F10-9266-99C99ACAD60F}|client\\client.vcxproj|solutionrelative:client\\client2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A117B4CF-69DE-4F10-9266-99C99ACAD60F}|client\\client.vcxproj|D:\\D\\internship\\UDP\\ENet\\client\\client\\enet-master\\win32.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A117B4CF-69DE-4F10-9266-99C99ACAD60F}|client\\client.vcxproj|solutionrelative:client\\enet-master\\win32.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A117B4CF-69DE-4F10-9266-99C99ACAD60F}|client\\client.vcxproj|D:\\D\\internship\\UDP\\ENet\\client\\client\\enet-master\\callbacks.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A117B4CF-69DE-4F10-9266-99C99ACAD60F}|client\\client.vcxproj|solutionrelative:client\\enet-master\\callbacks.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "client3.cpp",
+              "DocumentMoniker": "D:\\D\\internship\\UDP\\ENet\\client\\client\\client3.cpp",
+              "RelativeDocumentMoniker": "client\\client3.cpp",
+              "ToolTip": "D:\\D\\internship\\UDP\\ENet\\client\\client\\client3.cpp",
+              "RelativeToolTip": "client\\client3.cpp",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAACsAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-04T06:41:42.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "client2.cpp",
+              "DocumentMoniker": "D:\\D\\internship\\UDP\\ENet\\client\\client\\client2.cpp",
+              "RelativeDocumentMoniker": "client\\client2.cpp",
+              "ToolTip": "D:\\D\\internship\\UDP\\ENet\\client\\client\\client2.cpp",
+              "RelativeToolTip": "client\\client2.cpp",
+              "ViewState": "AgIAAIAAAAAAAAAAAAA0wKYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-29T09:23:01.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "win32.c",
+              "DocumentMoniker": "D:\\D\\internship\\UDP\\ENet\\client\\client\\enet-master\\win32.c",
+              "RelativeDocumentMoniker": "client\\enet-master\\win32.c",
+              "ToolTip": "D:\\D\\internship\\UDP\\ENet\\client\\client\\enet-master\\win32.c",
+              "RelativeToolTip": "client\\enet-master\\win32.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-06-29T06:52:03.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "callbacks.c",
+              "DocumentMoniker": "D:\\D\\internship\\UDP\\ENet\\client\\client\\enet-master\\callbacks.c",
+              "RelativeDocumentMoniker": "client\\enet-master\\callbacks.c",
+              "ToolTip": "D:\\D\\internship\\UDP\\ENet\\client\\client\\enet-master\\callbacks.c",
+              "RelativeToolTip": "client\\enet-master\\callbacks.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-06-29T06:50:45.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "client.cpp",
+              "DocumentMoniker": "D:\\D\\internship\\UDP\\ENet\\client\\client\\client.cpp",
+              "RelativeDocumentMoniker": "client\\client.cpp",
+              "ToolTip": "D:\\D\\internship\\UDP\\ENet\\client\\client\\client.cpp",
+              "RelativeToolTip": "client\\client.cpp",
+              "ViewState": "AgIAAEkAAAAAAAAAAAA0wG8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-29T04:01:53.202Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
